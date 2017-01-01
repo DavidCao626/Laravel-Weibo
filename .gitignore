@@ -6,3 +6,5 @@ Homestead.json
 .idea
 .idea.rar
 /.idea
+/.idea/
+yarn.lock
