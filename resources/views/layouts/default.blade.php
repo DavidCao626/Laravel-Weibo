@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>
+  <head>
   <title>@yield('title', 'Sample App') - Laravel 入门教程</title>
   <link rel="stylesheet" href="/css/app.css">
 </head>
@@ -14,5 +14,7 @@
     @include('layouts._footer')
   </div>
 </div>
+
+<script src="/js/app.js"></script>
 </body>
 </html>
